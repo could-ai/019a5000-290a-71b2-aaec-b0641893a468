@@ -1,6 +1,6 @@
-# couldai_user_app
+# infomix.id
 
-A new Flutter project.
+Aplikasi news aggregator untuk pengguna Indonesia.
 
 ## Getting Started
 
